@@ -1,4 +1,4 @@
-# Exam_Samples_2023_C-
+# Exam_Samples_2023
 Solutions to exams samples from 2023 in Introduction to programming in C++
 
 ## Sample1
